@@ -1,0 +1,30 @@
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.exe.config
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.pdb
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.Form1.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.pdb
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\bin\Debug\Asansör.exe.config
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\bin\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\bin\Debug\Asansör.pdb
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.Form1.resources
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\Asansör\Asansör\obj\Debug\Asansör.pdb
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.exe.config
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\bin\Debug\Asansör.pdb
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.AssemblyReference.cache
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.Form1.resources
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.Properties.Resources.resources
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.GenerateResource.cache
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.csproj.CoreCompileInputs.cache
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.exe
+C:\Users\Bayram İmran Küçük\Desktop\2021-2022 EĞİTİM\GÖRSEL PROGRAMLAM\C#\OKUL c#\Asansör\Asansör\obj\Debug\Asansör.pdb
